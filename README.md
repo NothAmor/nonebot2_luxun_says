@@ -1,0 +1,2 @@
+# nonebot2_luxun_says
+基于nonebot2机器人框架的鲁迅说插件
